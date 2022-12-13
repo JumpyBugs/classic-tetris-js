@@ -203,8 +203,8 @@ class ClassicTetris {
   // doard size in terms of squares
   // this is typically 10x20, but we are adding 2 invisible rows
   // at the top to have enough room to spawn all pieces
-  static BOARD_WIDTH = 4;
-  static BOARD_HEIGHT = 9;
+  static BOARD_WIDTH = 10;
+  static BOARD_HEIGHT = 20;
   
   
   // constructor needs a canvas
